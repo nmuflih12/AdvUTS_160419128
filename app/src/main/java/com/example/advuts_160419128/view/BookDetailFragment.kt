@@ -39,7 +39,7 @@ class BookDetailFragment : Fragment(){
             Log.d("hasil", book.toString())
             book?.let{
                 Log.d("hasil", it.description.toString())
-                textTitleDetailnew.text = it.title
+                //textTitleDetailnew.setText(it.title.toString())
                 textAuthorDetailnew.setText(it.author)
                 textDescDetailnew.setText(it.description)
                 textAuthorDetailnew.setText(it.author)
