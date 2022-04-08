@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AdvUTS_160419128</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
